@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Progress_barActivity!</string>
+    <string name="app_name">Progress_bar</string>
+    <string name="link">"<a href="http://www.google.com" rel="nofollow">Google</a>"</string>
+
+</resources>
